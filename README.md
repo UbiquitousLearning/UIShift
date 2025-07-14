@@ -70,7 +70,7 @@ More evaluation results on ScreenSpot and ScreenSpot-Pro can be found in the [UI
 
 - Copy [grpo_uishift.py](train/grpo_uishift.py) to `VLM-R1/src/open-r1-multimudal/src/open_r1/trainer`. This script implements the reward mechanism used during training.
 
-- Copy [run_grpo_uishift.py](train/run_grpo_uishift.sh) to `VLM-R1/src/open-r1-multimudal/run_scripts`. This is the training launch script and contains the hyperparameters used in UIShift.
+- Copy [run_grpo_uishift.sh](train/run_grpo_uishift.sh) to `VLM-R1/src/open-r1-multimudal/run_scripts`. This is the training launch script and contains the hyperparameters used in UIShift.
 
 ### Evaluation
 
